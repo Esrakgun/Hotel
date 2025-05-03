@@ -1,4 +1,4 @@
-# 🏨 ElegantStay - Konfor ve Estetiğin Buluştuğu Hotel Web Sitesi:
+# 🏨 Konfor ve Estetiğin Buluştuğu Hotel Web Sitesi:
 
 🌟 *“Her oda bir hikâye anlatır, her sayfa sizi yolculuğa çıkarır.”*
 
@@ -87,9 +87,9 @@ Sorularınız ve görüşleriniz için benimle iletişime geçmekten çekinmeyin
 - 👩‍💻 Geliştirici: Esra Akgündoğdu
 
 ---
-# Bu proje açık kaynaklıdır. Kişisel ve eğitim amaçlı kullanımlar için uygundur.  
+ Bu proje açık kaynaklıdır. Kişisel ve eğitim amaçlı kullanımlar için uygundur.  
 Lütfen kaynak belirtmeyi unutmayın. 🎓
-
+---
 # 📸 Ekran Görüntüsü:
 
 
