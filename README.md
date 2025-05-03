@@ -92,7 +92,7 @@ Lütfen kaynak belirtmeyi unutmayın. 🎓
 
 # 📸 Ekran Görüntüsü:
 
-> *Ekran görüntüsünü eklemek için buraya yerleştirin*
+
 
  
 
