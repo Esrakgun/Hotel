@@ -87,19 +87,25 @@ Sorularınız ve görüşleriniz için benimle iletişime geçmekten çekinmeyin
 - 👩‍💻 Geliştirici: Esra Akgündoğdu
 
 ---
+# Bu proje açık kaynaklıdır. Kişisel ve eğitim amaçlı kullanımlar için uygundur.  
+Lütfen kaynak belirtmeyi unutmayın. 🎓
 
 # 📸 Ekran Görüntüsü:
 
-> *Ekran görüntüsünü eklemek için buraya yerleştirin*  
-https://github.com/user-attachments/assets/290f77b6-a36f-4469-a443-ab58825f865e
+> *Ekran görüntüsünü eklemek için buraya yerleştirin*
+
+ 
+
+https://github.com/user-attachments/assets/f8f41383-ed79-4969-9144-097a26642db3
 
 
 
 
 
----
-# Bu proje açık kaynaklıdır. Kişisel ve eğitim amaçlı kullanımlar için uygundur.  
-Lütfen kaynak belirtmeyi unutmayın. 🎓
+
+
+
+
 
 
 
